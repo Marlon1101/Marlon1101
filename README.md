@@ -1,5 +1,5 @@
 
-# Hi, I'm Marlon! 👋
+# Hi!, Welcome to my profile👋
 
 <img src="https://media.giphy.com/media/RF5JnErzJYFSK897V1/giphy.gif"  width="1000"/>
 
@@ -8,21 +8,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlondelaroch3@gmail.com)](mailto:marlondelaroch3@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marlondelaroch3)](https://twitter.com/marlondelaroch3)
 
-Soy un apasionado por la tecnología y las historias, 
-me gusta aprender y entender las cosas más allá de lo 
-básico. Soy persistente al resolver problemas y me 
-emociona el alcanzar nuevos objetivos.
-
-Como FullStack tengo experiencia académica 
-desarrollando una SPA, desde su base de datos, 
-backend y frontend.
-
-Actualmente me encuentro aprendiendo Python y 
-desarrollando una app con un grupo de 8 personas, 
-utilizando la metodología SCRUM.
+>I'm passionate about technology, I like to learn and understand things 
+beyond the basics. I'm persistent when solving problems and excited me reach 
+new goals. As a FullStack I've academic experience developing a SPA, from its 
+database, backend and frontend. I'm currently learning Python and developing an 
+app with a group of 8 people, using the SCRUM methodology.
 
 
-## 🛠 Skills
+## Skills
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/marlondelaroch3/)](https://github.com/marlondelaroch3/)
 
