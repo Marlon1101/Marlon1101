@@ -1,5 +1,5 @@
 
-# Hi!, Welcome to my profile👋
+# Hi!, welcome to my profile👋
 
 <img src="https://media.giphy.com/media/RF5JnErzJYFSK897V1/giphy.gif"  width="1000"/>
 
