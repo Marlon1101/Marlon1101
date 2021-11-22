@@ -1,7 +1,7 @@
 
 # Hi, I'm Marlon! 👋
 
-![Hi, I'm Marlon](https://media.giphy.com/media/RF5JnErzJYFSK897V1/giphy.gif)
+<img src="https://media.giphy.com/media/RF5JnErzJYFSK897V1/giphy.gif"  width="1000"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlondelaroch3)](https://www.linkedin.com/in/marlondelaroch3)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573228048771&text=Hi!!)](https://api.whatsapp.com/send?phone=573228048771&text=Hi!)
